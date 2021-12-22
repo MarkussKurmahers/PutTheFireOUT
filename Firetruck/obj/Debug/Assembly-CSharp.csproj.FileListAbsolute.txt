@@ -1,0 +1,2 @@
+E:\Firetruck\Firetruck\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Firetruck\Firetruck\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

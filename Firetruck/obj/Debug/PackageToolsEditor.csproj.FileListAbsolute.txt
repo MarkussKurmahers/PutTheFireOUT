@@ -1,0 +1,2 @@
+E:\Firetruck\Firetruck\obj\Debug\PackageToolsEditor.csprojAssemblyReference.cache
+E:\Firetruck\Firetruck\obj\Debug\PackageToolsEditor.csproj.CoreCompileInputs.cache

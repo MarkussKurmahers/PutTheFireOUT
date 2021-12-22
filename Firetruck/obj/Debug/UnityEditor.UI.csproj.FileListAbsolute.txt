@@ -1,0 +1,2 @@
+E:\Firetruck\Firetruck\obj\Debug\UnityEditor.UI.csprojAssemblyReference.cache
+E:\Firetruck\Firetruck\obj\Debug\UnityEditor.UI.csproj.CoreCompileInputs.cache
